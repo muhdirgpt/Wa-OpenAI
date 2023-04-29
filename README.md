@@ -37,12 +37,12 @@ $ node index.js
 ```
 
 ## Donate
-<a href="https://link.dana.id/qr/h4zri7bx" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
+<a href="https://link.dana.id/qr/h4zri7bx" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5QWIBUP5VEg0feTQQ28IUTZFhLQI50IkRw&usqp=CAU" alt="Donate For Muhdir" height="41" width="174"></a>
 
 <a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
 [MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
 
-Copyright (c) 2022 M Yusril
+Copyright (c) 2022 M Yusril | Modif by Muhdir
 
